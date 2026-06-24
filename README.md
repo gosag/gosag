@@ -290,25 +290,6 @@ WatchVault solves the endless scroll problem. It uses **Gemini** as the recommen
 
 <br/>
 
-<!--  ╔══════════════════════════════╗
-      ║        GITHUB STATS          ║
-      ╚══════════════════════════════╝  -->
-
-<h2 align="center">📊 &nbsp;GitHub Stats</h2>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=gosag&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&rank_icon=github" height="165" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gosag&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9" height="165" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=gosag&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" height="150" />
-
-</div>
-
-<br/>
 
 ---
 
