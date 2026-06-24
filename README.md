@@ -50,12 +50,7 @@ My rule is simple: **if I wouldn't use it myself, I don't build it.**
 
 <br/>
 
-| | |
-|---|---|
-| 🚀 | **3 full-stack apps** live in production — deployed, debugged, and demo-ready |
-| 🌍 | Based in **Ethiopia** — open to **remote roles worldwide** |
-| 📣 | Documenting the build journey on [LinkedIn](https://www.linkedin.com/in/gosa-girma) & [X](https://x.com/GosaGirma110026) |
-| 📬 | **gosagirma441@gmail.com** |
+
 
 </td>
 <td width="5%"></td>
