@@ -9,9 +9,9 @@
 <p>
   <a href="https://gosagirma.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-gosagirma.me-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   &nbsp;
-  <a href="https://linkedin.com/in/gosagirma" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/gosa-girma" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   &nbsp;
-  <a href="https://x.com/gosagirma" target="_blank"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="x://user?screen_name=GosaGirma110026" target="_blank"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=gosag&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" />
 </p>
@@ -34,7 +34,7 @@ Currently job hunting for **remote roles** and publicly documenting my build jou
 
 - 🔭 Actively building and shipping **3 portfolio projects**
 - 🌍 Based in **Ethiopia**, open to **remote worldwide**
-- ✍️ Documenting my dev journey publicly — [follow along](https://linkedin.com/in/gosagirma)
+- ✍️ Documenting my dev journey publicly — [follow along](https://www.linkedin.com/in/gosa-girma)
 - 💡 Philosophy: *ship it, then iterate*
 
 </td>
@@ -49,7 +49,7 @@ Currently job hunting for **remote roles** and publicly documenting my build jou
 &nbsp;&nbsp;`Node.js` &nbsp;`Express` &nbsp;`MongoDB` &nbsp;`Mongoose`
 
 **Auth & Real-time**
-&nbsp;&nbsp;`JWT` &nbsp;`Google OAuth` &nbsp;`Socket.io`
+&nbsp;&nbsp;`JWT` &nbsp;`OAuth` &nbsp;`Socket.io`
 
 **AI & Cloud**
 &nbsp;&nbsp;`Gemini API` &nbsp;`Cloudinary` &nbsp;`Render` &nbsp;`Vercel`
@@ -78,7 +78,7 @@ Real-time project management app inspired by Linear. Full Kanban with drag-and-d
 </td>
 <td width="33%" valign="top">
 
-**[🎓 EchoStudy](https://gosagirma.me)**
+**[🎓 EchoStudy](https://echostudy.gosagirma.me)**
 
 AI-powered study platform built on Gemini. Generates quizzes, flashcards, and uses SM-2 spaced repetition scheduling. Includes a Socratic tutor mode for deep learning.
 
@@ -87,7 +87,7 @@ AI-powered study platform built on Gemini. Generates quizzes, flashcards, and us
 </td>
 <td width="33%" valign="top">
 
-**[🎬 WatchVault](https://gosagirma.me)**
+**[🎬 WatchVault](https://watchvault.gosagirma.me)**
 
 Movie discovery app with AI-powered personalized recommendations. Built on Gemini to learn from your taste and surface films you'll actually want to watch.
 
@@ -117,11 +117,11 @@ Movie discovery app with AI-powered personalized recommendations. Built on Gemin
 
 <div align="center">
 
-*Open to full-time remote roles — drop me a message on [LinkedIn](https://linkedin.com/in/gosagirma) or email at **gosa@gosagirma.me***
+*Open to full-time remote roles — drop me a message on [LinkedIn](https://www.linkedin.com/in/gosa-girma) or email at **gosagirma441@gmail.com***
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" />
 
-</div>## Hi there 👋
+</div>
 
 <!--
 **gosag/gosag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
