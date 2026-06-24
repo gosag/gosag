@@ -1,139 +1,336 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:1a1040,100:0d0d1a&height=140&section=header&text=Gosa%20Girma&fontSize=42&fontColor=ffffff&fontAlignY=65&desc=Full-Stack%20Developer%20%E2%80%94%20MERN%20%7C%20TypeScript%20%7C%20AI&descAlignY=85&descSize=16&animation=fadeIn" />
 
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Gosa+Girma+%F0%9F%91%8B;Full-Stack+Developer;MERN+%7C+TypeScript+%7C+Node.js;Building+products+I'd+actually+use." alt="Typing SVG" />
-</h1>
+<br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+products+I'd+actually+use.;Real+auth.+Real-time.+Real+AI.;Self-taught+%E2%86%92+Production-deployed.;Open+to+remote+roles+worldwide." alt="Typing SVG" />
+
+<br/><br/>
+
+<a href="https://gosagirma.me"><img src="https://img.shields.io/badge/Portfolio-gosagirma.me-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/gosa-girma"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+&nbsp;
+<a href="https://x.com/GosaGirma110026"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+&nbsp;
+<a href="mailto:gosagirma441@gmail.com"><img src="https://img.shields.io/badge/Email-gosagirma441@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=gosag&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" />
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!--  ╔══════════════════════════════╗
+      ║        ABOUT ME              ║
+      ╚══════════════════════════════╝  -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1040,100:0d0d1a&height=2&width=100%" />
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="60%" valign="top">
+
+<h2>👤 &nbsp;About Me</h2>
+
+<blockquote>
+<em>"I don't build tutorial projects.<br/>I build things worth shipping."</em>
+</blockquote>
+
+I'm a **full-stack developer** and third-year engineering student at **Adama Science and Technology University**, Ethiopia — but most of what I know, I built my way into, project by project.
+
+My work sits at the intersection of **real-time systems**, **auth architecture**, and **AI integration**. Not demo-level features — I'm talking JWT + OAuth flows, Socket.io presence tracking across multi-user workspaces, and Gemini-powered engines that actually respond to user context.
+
+My rule is simple: **if I wouldn't use it myself, I don't build it.**
+
+<br/>
+
+| | |
+|---|---|
+| 🚀 | **3 full-stack apps** live in production — deployed, debugged, and demo-ready |
+| 🌍 | Based in **Ethiopia** — open to **remote roles worldwide** |
+| 📣 | Documenting the build journey on [LinkedIn](https://www.linkedin.com/in/gosa-girma) & [X](https://x.com/GosaGirma110026) |
+| 📬 | **gosagirma441@gmail.com** |
+
+</td>
+<td width="5%"></td>
+<td width="35%" valign="top" align="center">
+
+<br/><br/><br/>
+
+```
+  ┌─────────────────────────┐
+  │                         │
+  │   Self-taught           │
+  │   → Production          │
+  │                         │
+  │   3 projects shipped    │
+  │   Real auth flows       │
+  │   Real-time collab      │
+  │   AI integrations       │
+  │                         │
+  │   Currently: Open       │
+  │   to remote roles       │
+  │                         │
+  └─────────────────────────┘
+```
+
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge&logoColor=white" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+<!--  ╔══════════════════════════════╗
+      ║        TECH STACK            ║
+      ╚══════════════════════════════╝  -->
+
+<h2 align="center">🛠️ &nbsp;Tech Stack</h2>
+
+<p align="center"><em>The tools I actually ship with — not just list on a resume.</em></p>
+
+<br/>
+
+<div align="center">
+
+<table border="0">
+<tr>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=react" width="48"/><br/>
+  <sub><b>React</b></sub>
+</td>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=ts" width="48"/><br/>
+  <sub><b>TypeScript</b></sub>
+</td>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br/>
+  <sub><b>Tailwind CSS</b></sub>
+</td>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=vite" width="48"/><br/>
+  <sub><b>Vite</b></sub>
+</td>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/>
+  <sub><b>Node.js</b></sub>
+</td>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=express" width="48"/><br/>
+  <sub><b>Express</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br/>
+  <sub><b>MongoDB</b></sub>
+</td>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=git" width="48"/><br/>
+  <sub><b>Git</b></sub>
+</td>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=github" width="48"/><br/>
+  <sub><b>GitHub</b></sub>
+</td>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=vscode" width="48"/><br/>
+  <sub><b>VS Code</b></sub>
+</td>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=postman" width="48"/><br/>
+  <sub><b>Postman</b></sub>
+</td>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=vercel" width="48"/><br/>
+  <sub><b>Vercel</b></sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Specialties row -->
 <p>
-  <a href="https://gosagirma.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-gosagirma.me-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/gosa-girma" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  &nbsp;
-  <a href="x://user?screen_name=GosaGirma110026" target="_blank"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=gosag&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/badge/Socket.io-Real--time_Collab-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/JWT-Auth_Flows-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Google_OAuth-SSO-4285F4?style=flat-square&logo=google&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Gemini_API-AI_Integration-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Cloudinary-Media_Storage-3448C5?style=flat-square&logo=cloudinary&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Render-Backend_Deploy-46E3B7?style=flat-square&logo=render&logoColor=000" />
 </p>
 
 </div>
 
+<br/>
+
 ---
 
-<table>
+<br/>
+
+<!--  ╔══════════════════════════════╗
+      ║          PROJECTS            ║
+      ╚══════════════════════════════╝  -->
+
+<h2 align="center">🚢 &nbsp;Projects</h2>
+
+<p align="center"><em>Three apps. Real problems solved. All live in production.</em></p>
+
+<br/>
+
+<!-- ShipIt -->
+<table border="0">
 <tr>
-<td valign="top" width="55%">
+<td width="5%" valign="top" align="center"><h2>⚡</h2></td>
+<td valign="top">
 
-### About Me
+### [ShipIt](https://shipit.gosagirma.me) — Real-time Project Management
 
-I'm a self-taught full-stack developer and third-year engineering student at **Adama Science and Technology University**, Ethiopia.
+> *Think Linear, but built from scratch by one developer.*
 
-I build full-stack web products with real features — auth flows, real-time collaboration, AI integrations — and I only build things I'd genuinely want to use myself.
+ShipIt is a full-featured project management app where **real-time collaboration is the core feature, not a bonus**. It handles multi-user workspaces, live Kanban updates via **Socket.io**, drag-and-drop across columns, comment threads with **per-card read/unread tracking**, live user presence indicators, and **Google OAuth + JWT authentication**. Profile images are stored via Cloudinary. The landing page ships with an interactive dnd-kit demo so visitors feel the product before signing up.
 
-Currently job hunting for **remote roles** and publicly documenting my build journey on LinkedIn and X.
+**What makes it production-grade:** multi-user sessions stay in sync, activity logs track every action, instant UI updates fire across clients — no polling, no refresh.
 
-- 🔭 Actively building and shipping **3 portfolio projects**
-- 🌍 Based in **Ethiopia**, open to **remote worldwide**
-- ✍️ Documenting my dev journey publicly — [follow along](https://www.linkedin.com/in/gosa-girma)
-- 💡 Philosophy: *ship it, then iterate*
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_OAuth-4285F4?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" />
+</p>
 
-</td>
-<td valign="top" width="45%">
-
-### Tech Stack
-
-**Frontend**
-&nbsp;&nbsp;`React` &nbsp;`TypeScript` &nbsp;`Tailwind CSS` &nbsp;`Vite`
-
-**Backend**
-&nbsp;&nbsp;`Node.js` &nbsp;`Express` &nbsp;`MongoDB` &nbsp;`Mongoose`
-
-**Auth & Real-time**
-&nbsp;&nbsp;`JWT` &nbsp;`OAuth` &nbsp;`Socket.io`
-
-**AI & Cloud**
-&nbsp;&nbsp;`Gemini API` &nbsp;`Cloudinary` &nbsp;`Render` &nbsp;`Vercel`
-
-**Tools**
-&nbsp;&nbsp;`Git` &nbsp;`GitHub` &nbsp;`VS Code` &nbsp;`Postman`
+**[→ Live Demo](https://shipit.gosagirma.me)**
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-### Projects
-
-<table>
+<!-- EchoStudy -->
+<table border="0">
 <tr>
-<td width="33%" valign="top">
+<td width="5%" valign="top" align="center"><h2>🎓</h2></td>
+<td valign="top">
 
-**[⚡ ShipIt](https://shipit.gosagirma.me)**
+### [EchoStudy](https://echostudy.gosagirma.me) — AI-Powered Study Platform
 
-Real-time project management app inspired by Linear. Full Kanban with drag-and-drop, workspace collaboration, comment threads with read/unread tracking, and live presence.
+> *The study tool I wish I had during exam season.*
 
-`React` `Socket.io` `MongoDB` `JWT` `Google OAuth`
+EchoStudy uses **Gemini** to turn any topic into a complete study session — quizzes, flashcards, and a **Socratic tutor mode** that asks questions instead of giving answers (because that's actually how you learn). Under the hood, the **SM-2 spaced repetition algorithm** schedules your next review at the optimal moment, so you're reinforcing what's fading — not grinding what you already know.
 
-</td>
-<td width="33%" valign="top">
+**What makes it production-grade:** per-user scheduling state, multiple Gemini prompt strategies for different learning modes, a quiz UI that adapts based on how you're performing.
 
-**[🎓 EchoStudy](https://echostudy.gosagirma.me)**
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
 
-AI-powered study platform built on Gemini. Generates quizzes, flashcards, and uses SM-2 spaced repetition scheduling. Includes a Socratic tutor mode for deep learning.
-
-`React` `Gemini API` `Node.js` `MongoDB`
-
-</td>
-<td width="33%" valign="top">
-
-**[🎬 WatchVault](https://watchvault.gosagirma.me)**
-
-Movie discovery app with AI-powered personalized recommendations. Built on Gemini to learn from your taste and surface films you'll actually want to watch.
-
-`React` `Gemini API` `MERN` `TypeScript`
+**[→ Live Demo](https://echostudy.gosagirma.me)**
 
 </td>
 </tr>
 </table>
 
+<br/>
+
+<!-- WatchVault -->
+<table border="0">
+<tr>
+<td width="5%" valign="top" align="center"><h2>🎬</h2></td>
+<td valign="top">
+
+### [WatchVault](https://watchvault.gosagirma.me) — AI Movie Discovery
+
+> *No more "what should I watch tonight?" scrolling.*
+
+WatchVault solves the endless scroll problem. It uses **Gemini** as the recommendation engine — not generic trending logic, but a model that takes your actual ratings and watch history as context and surfaces films you're likely to genuinely enjoy. Browse a catalogue, log what you've watched, and let the AI do the rest.
+
+**What makes it production-grade:** Gemini prompt context built from real user history, AI output that feels intentional rather than random, clean movie browsing UI with personal vault management.
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
+
+**[→ Live Demo](https://watchvault.gosagirma.me)**
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 ---
+
+<br/>
+
+<!--  ╔══════════════════════════════╗
+      ║        GITHUB STATS          ║
+      ╚══════════════════════════════╝  -->
+
+<h2 align="center">📊 &nbsp;GitHub Stats</h2>
 
 <div align="center">
 
-### GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=gosag&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&rank_icon=github" height="165" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gosag&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=gosag&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&rank_icon=github" height="160" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gosag&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9" height="160" />
-
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=gosag&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" height="150" />
 
 </div>
 
+<br/>
+
 ---
+
+<br/>
 
 <div align="center">
 
-*Open to full-time remote roles — drop me a message on [LinkedIn](https://www.linkedin.com/in/gosa-girma) or email at **gosagirma441@gmail.com***
+<h3>Let's build something together</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" />
+<p>I'm actively looking for <strong>remote full-stack roles</strong>.<br/>
+If you're building something ambitious and need someone who ships — let's talk.</p>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/gosa-girma"><img src="https://img.shields.io/badge/LinkedIn-Message%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+&nbsp;
+<a href="mailto:gosagirma441@gmail.com"><img src="https://img.shields.io/badge/Email-gosagirma441@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+&nbsp;
+<a href="https://gosagirma.me"><img src="https://img.shields.io/badge/Portfolio-gosagirma.me-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:1a1040,100:0d0d1a&height=100&section=footer" />
 
 </div>
-
-<!--
-**gosag/gosag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
