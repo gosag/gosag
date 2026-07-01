@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+products+I'd+actually+use.;Real+auth.+Real-time.+Real+AI.;Self-taught+%E2%86%92+Production-deployed.;Open+to+remote+roles+worldwide." alt="Typing SVG" />
 
-<br/><br/>
+<br/>
 
 <a href="https://gosagirma.me"><img src="https://img.shields.io/badge/Portfolio-gosagirma.me-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 &nbsp;
@@ -177,118 +177,6 @@ My rule is simple: **if I wouldn't use it myself, I don't build it.**
 
 ---
 
-<br/>
-
-<!--  ╔══════════════════════════════╗
-      ║          PROJECTS            ║
-      ╚══════════════════════════════╝  -->
-
-<h2 align="center">🚢 &nbsp;Projects</h2>
-
-<p align="center"><em>Three apps. Real problems solved. All live in production.</em></p>
-
-<br/>
-
-<!-- ShipIt -->
-<table border="0">
-<tr>
-<td width="5%" valign="top" align="center"><h2>⚡</h2></td>
-<td valign="top">
-
-### [ShipIt](https://shipit.gosagirma.me) — Real-time Project Management
-
-> *Think Linear, but built from scratch by one developer.*
-
-ShipIt is a full-featured project management app where **real-time collaboration is the core feature, not a bonus**. It handles multi-user workspaces, live Kanban updates via **Socket.io**, drag-and-drop across columns, comment threads with **per-card read/unread tracking**, live user presence indicators, and **Google OAuth + JWT authentication**. Profile images are stored via Cloudinary. The landing page ships with an interactive dnd-kit demo so visitors feel the product before signing up.
-
-**What makes it production-grade:** multi-user sessions stay in sync, activity logs track every action, instant UI updates fire across clients — no polling, no refresh.
-
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_OAuth-4285F4?style=flat-square&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" />
-</p>
-
-**[→ Live Demo](https://shipit.gosagirma.me)**
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- EchoStudy -->
-<table border="0">
-<tr>
-<td width="5%" valign="top" align="center"><h2>🎓</h2></td>
-<td valign="top">
-
-### [EchoStudy](https://echostudy.gosagirma.me) — AI-Powered Study Platform
-
-> *The study tool I wish I had during exam season.*
-
-EchoStudy uses **Gemini** to turn any topic into a complete study session — quizzes, flashcards, and a **Socratic tutor mode** that asks questions instead of giving answers (because that's actually how you learn). Under the hood, the **SM-2 spaced repetition algorithm** schedules your next review at the optimal moment, so you're reinforcing what's fading — not grinding what you already know.
-
-**What makes it production-grade:** per-user scheduling state, multiple Gemini prompt strategies for different learning modes, a quiz UI that adapts based on how you're performing.
-
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-</p>
-
-**[→ Live Demo](https://echostudy.gosagirma.me)**
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- WatchVault -->
-<table border="0">
-<tr>
-<td width="5%" valign="top" align="center"><h2>🎬</h2></td>
-<td valign="top">
-
-### [WatchVault](https://watchvault.gosagirma.me) — AI Movie Discovery
-
-> *No more "what should I watch tonight?" scrolling.*
-
-WatchVault solves the endless scroll problem. It uses **Gemini** as the recommendation engine — not generic trending logic, but a model that takes your actual ratings and watch history as context and surfaces films you're likely to genuinely enjoy. Browse a catalogue, log what you've watched, and let the AI do the rest.
-
-**What makes it production-grade:** Gemini prompt context built from real user history, AI output that feels intentional rather than random, clean movie browsing UI with personal vault management.
-
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-</p>
-
-**[→ Live Demo](https://watchvault.gosagirma.me)**
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<br/>
-
-
----
-
-<br/>
 
 <div align="center">
 
